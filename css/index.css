@@ -1,0 +1,32 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    text-align: center;
+    margin: 300px;
+}
+
+#spin {
+    text-align: center;
+    animation: rotate 2.2s linear infinite;
+}
+
+.carousele div img {
+    width:1000px;
+    height:500px
+}
+
+p {
+    text-align: center;
+    color: grey;
+}
+
+#fancy {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Zen Dots', cursive;
+}
+
+@keyframes rotate {
+    to {transform: rotate(360deg); }
+}
