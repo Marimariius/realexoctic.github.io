@@ -13,13 +13,30 @@ footer {
     animation: rotate 2.2s linear infinite;
 }
 
+button {
+    width: 250px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 10px;
+    box-shadow: none;
+    border-bottom-style: none;;
+    border-style: none;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
 #center {
     text-align: center;
 }
 
 .carousele div img {
-    width:1000px;
-    height:500px
+    width:50%;
+    height:50%
 }
 
 p {
