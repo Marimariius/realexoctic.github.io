@@ -5,11 +5,16 @@
 footer {
     text-align: center;
     margin: 300px;
+    width: auto;
 }
 
 #spin {
     text-align: center;
     animation: rotate 2.2s linear infinite;
+}
+
+#center {
+    text-align: center;
 }
 
 .carousele div img {
