@@ -1,2 +1,2 @@
 console.log("hacking in progress")
-alert(document)
+alert(document.domain)
