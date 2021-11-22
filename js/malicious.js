@@ -1,2 +1,4 @@
 console.log("hacking in progress")
-alert(document.domain)
+console.table(document.cookie)
+
+alert("wow common sense")
